@@ -1,4 +1,4 @@
-# Database Programming : CTEs & SQL Window Functions
+# CTEs & SQL Window Functions
 
 
 ## Business Scenario
