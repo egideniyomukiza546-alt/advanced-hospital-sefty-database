@@ -1,14 +1,5 @@
-# Database Programming Assignment I: CTEs & SQL Window Functions
+# Database Programming : CTEs & SQL Window Functions
 
-## Course Information
-- **Course Title:** C11665 - DPR400210: Database Programming  
-- **Instructor:** Eric Maniraguha  
-- **Student Name:** NIYOMUKIZA Egide  
-- **Student ID:** 31756/2025  
-- **Group:** One  
-- **Assignment Date:**  June 2026  
-
----
 
 ## Business Scenario
 MediCare Hospital needs a comprehensive database system to manage patient admissions, doctor assignments, and treatment costs. The system aims to analyze doctor performance, patient visit patterns, and revenue trends to optimize healthcare delivery and financial management.
