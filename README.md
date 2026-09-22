@@ -635,18 +635,3 @@ SET ECHO OFF
 
 **Expected Annual Savings:** $20,000 - $30,000
 
----
-## References
-
-1. Oracle 21c SQL Language Reference
-2. Course Materials - DPR400210: Database Programming
-3. Oracle Live SQL Documentation
-4. SQL*Plus User's Guide
-
-   ## Academic Integrity Statement
-
-I hereby declare that this assignment is my own original work. All sources used have been properly cited, and I have not copied or collaborated with others without permission.
-
-**Signature:** NIYOMUKIZA Egide
-**Date:** 29 June 2026
-
